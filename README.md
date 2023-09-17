@@ -38,6 +38,8 @@ My favorite field is ethical Cyber Security, which is why I try to explore every
 | - | - |
 | [![TRYHACKME](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api)  |
 | [![HACKTHEBOX](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api)  |
+| [![TORBROWSER](https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=torbrowser&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api)  |
+| [![KALILINUX](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api)  |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
