@@ -34,7 +34,7 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 
 <p align="left">
-  <img width="500" src="https://media2.giphy.com/media/jO3guf6Wf47T2/giphy.gif?cid=ecf05e47f88ijqx5jkyq8f4e0joplivntuxtnkzkyfmot30e&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img width="500" src="https://media.tenor.com/yNq8PTrXLdgAAAAd/zoro-roronoa-zoro.gif">
 
 </p>
 
