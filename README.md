@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/Unknown-0x0/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/raphael-dmchy-247317233/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
-[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/unknowatrd)
 
 [![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
