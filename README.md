@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [UnknowR](https://unknown.dev) [@Unknow0x0](https://Unknow0x0.dev)
+<img src="banner.png" alt="Alt text" title="Banner">
 
 [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/Unknown-0x0/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashleymavericks/)](https://www.linkedin.com/in/raphael-dmchy-247317233/)
