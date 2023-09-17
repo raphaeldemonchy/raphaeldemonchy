@@ -6,7 +6,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/unknowatrd)
 
 :wave: Hello, I am a student in computer science and development. I'm passionate about everything related to 0 or 1 and soon both at the same time :)
-My favorite field is ethical Cyber Security, which is why I try to explore every area of it.
+My favorite field is ethical Cyber Security, this is why i continue to explore the endless horizons of hacking.
 
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
