@@ -29,9 +29,6 @@ My favorite field is ethical Cyber Security, which is why I try to explore every
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
-![Alt Text](https://tenor.com/rpi3yJ2lDzU.gif)
-
 
 <p align="left">
   <img width="500" src="https://media.tenor.com/yNq8PTrXLdgAAAAd/zoro-roronoa-zoro.gif">
