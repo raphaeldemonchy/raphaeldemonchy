@@ -5,9 +5,6 @@
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@ashleymavericks)](https://medium.com/@ashleymavericks)
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/unknowatrd)
 
-[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@eafdbba4-cec2-4c99-8cd5-5fc36bb00274)
-[![ProfileViews](https://komarev.com/ghpvc/?username=ashleymavericks&color=red&style=flat)](https://komarev.com/ghpvc/?username=ashleymavericks)
-
 :wave: Hello, I am a student in computer science and development. I'm passionate about everything related to 0 or 1 and soon both at the same time :)
 My favorite field is ethical Cyber Security, which is why I try to explore every area of it.
 
