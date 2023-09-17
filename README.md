@@ -30,6 +30,7 @@ My favorite field is ethical Cyber Security, which is why I try to explore every
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+![Alt Text](https://tenor.com/rpi3yJ2lDzU.gif)
 
 <div>
     <img src="https://tenor.com/rpi3yJ2lDzU.gif" width="100" height="100"/>
