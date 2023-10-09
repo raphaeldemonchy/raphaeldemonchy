@@ -31,10 +31,7 @@ My favorite field is ethical Cyber Security, this is why i continue to explore t
 
 
 
-<p align="left">
-  <img width="500" src="https://media.tenor.com/yNq8PTrXLdgAAAAd/zoro-roronoa-zoro.gif">
 
-</p>
 
 <div>
     <img src="https://tenor.com/rpi3yJ2lDzU.gif" width="100" height="100"/>
